@@ -1,3 +1,2 @@
 # hello-world
-I'm Neelabh, nice to meet you!
-My hobbies include basketball, cubing and solvng math puzzles
+Hi, nice to meet you! My name is Neelabh and I am a senior at UCLA majoring in Computational Math with a minor in Data Science Engineering.
