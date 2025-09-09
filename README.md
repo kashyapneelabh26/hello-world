@@ -1,2 +1,2 @@
-# hello-world
-Hi, nice to meet you! My name is Neelabh and I am a senior at UCLA majoring in Computational Math with a minor in Data Science Engineering.
+# About Me
+Hi, nice to meet you! My name is Neelabh and I am a recent grad from UCLA where I studied Computational Math with a minor in Data Science Engineering. I am currently pursuing a Master's in Financial Engineering at UC Berkeley. In the past, I've worked in Fintech, IB, Tech Consulting, and Software Engineering. Most of my free time is spent playing basketball or soccer or running trails around the Bay
